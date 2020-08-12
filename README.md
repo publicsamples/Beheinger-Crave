@@ -1,4 +1,4 @@
-# Beheinger Crave
+# Behringer Crave
 
 
    **Formats:** EXS24, Kontakt
