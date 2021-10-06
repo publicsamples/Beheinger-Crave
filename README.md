@@ -1,11 +1,11 @@
 # Behringer Crave
 
+A small collection ~~Moog Mother 32~~ Behringer Crave samples. 
 
    **Formats:** EXS24, Kontakt
 
-**This collection requires you to download the audio seperately**
+**[Download Audio](https://github.com/publicsamples/Behringer-Crave/releases/tag/1.0)**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/zi6adhdlv6ntg63/AABePW8WJIRzkFX0smGIxQ_xa?dl=0)
 
 
 # Loading
